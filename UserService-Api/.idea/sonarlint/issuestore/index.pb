@@ -29,3 +29,5 @@ UUserService-Api/src/main/java/org/jobhacker/user_service_api/service/UserServic
 YUserService-Api/src/main/java/org/jobhacker/user_service_api/exception/UserException.java,2\7\2760d785cb2ad3322a36a192fb951c7fed4d2c1b
 ƒ
 SUserService-Api/src/main/java/org/jobhacker/user_service_api/mapper/UserMapper.java,a\1\a1d891696eb8264de2f257e4410ce37d62ab24a3
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
